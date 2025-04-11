@@ -7,7 +7,7 @@ Material for tutorials at 2025 conference
   - additional material: 
 - **Session 2: Sunday, April 13, 14:00-16:00**
   - *Algebraic Multigrid* by Scott MacLachlan at Memorial University of Newfoundland and Labrador
-  - slides: 
+  - slides: [AMG_tutorial_2025.pdf](./AMG_tutorial_2025.pdf)
 - **Session 3: Sunday, April 16, 16:30-18:00**
   - *Neural Networks and SciML (with a wink to multigrid)* by Eric C. Cyr at Sandia National Laboratories
   - slides: 
