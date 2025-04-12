@@ -3,7 +3,7 @@ Material for tutorials at 2025 conference
 
 - **Session 1: Sunday, April 13, 10:00-12:00**
   - *Multigrid - the Fundamentals* by Hans De Sterck at the University of Waterloo
-  - slides: 
+  - slides: [MG_Tutorial_2025_annotated.pdf](./MG_Tutorial_2025_annotated.pdf)
   - additional material: [Fundamentals notebooks](./fundamentals)
 - **Session 2: Sunday, April 13, 14:00-16:00**
   - *Algebraic Multigrid* by Scott MacLachlan at Memorial University of Newfoundland and Labrador
