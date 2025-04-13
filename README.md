@@ -11,4 +11,7 @@ Material for tutorials at 2025 conference
   - additional material: [AMG notebooks](./amg)
 - **Session 3: Sunday, April 16, 16:30-18:00**
   - *Neural Networks and SciML (with a wink to multigrid)* by Eric C. Cyr at Sandia National Laboratories
-  - slides: 
+  - slides: [SciML-Survey](./sciml-survey.pptx)
+  - additional material: [PINNS notebook](./sciml-survey/pinns)
+  - additional material: [MOR-Physics notebook](./sciml-survey/mor-physics)
+  - additional material: [Torchbraid (Layer Paralle) MNIST](https://github.com/Multilevel-NN/torchbraid/tree/master/examples/mnist)
